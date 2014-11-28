@@ -1,0 +1,3 @@
+andropro
+========
+Tahmin oyunu geliştireceğiz
